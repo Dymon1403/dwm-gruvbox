@@ -29,6 +29,15 @@ and this like:
 
 3. **can be used:**
 ```bash
-
+yapi
 ```
+# Trunciations that may occur
+
+To run DWM, it is better to use Xinit
+
+end
+
+P.S. i used him on Thikpad T430
+
+
 
