@@ -15,7 +15,7 @@ and this like:
 1. **Clone the repository:**
 ```bash
     git clone https://github.com/Dymon1403/dwm-gruvbox.git
-    cd dwm-gruvbox.git
+    cd dwm-gruvbox
     chmod +x install.sh
 
 ```
@@ -27,17 +27,16 @@ and this like:
 
 ```
 
-3. **can be used:**
+3. **How to run:**
+        Add exec dwm in your ~/.xinitrc and launch X11:
 ```bash
-yapi
+startx
 ```
-# Trunciations that may occur
+**Notes**
 
-To run DWM, it is better to use Xinit
+To run dwm, it is recommended to use xinit / startx.
 
-end
-
-P.S. i used him on Thikpad T430
+P.S. Used on ThinkPad T430
 
 
 
