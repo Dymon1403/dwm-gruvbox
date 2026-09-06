@@ -10,29 +10,26 @@ What it will look like:
 and this like:
 ![Desktop Preview](screenshots/2026-08-29_12-28.png)
 
-## HOW TO INSTALL????
 
-1. **Clone the repository:**
-```bash
-    git clone https://github.com/Dymon1403/dwm-gruvbox.git
-    cd dwm-gruvbox
-    chmod +x install.sh
+**How to run:**
+Clone repo and replace my repo in ur dwm/
 
-```
-
- 2. **Run the script:**
-```bash
-
-   ./install.sh
-
-```
-
-3. **How to run:**
-        Add exec dwm in your ~/.xinitrc and launch X11:
+Add exec dwm in your ~/.xinitrc and launch X11:
 ```bash
 startx
 ```
 **Notes**
+you need:
+gcc/clang 
+make
+pkg-config
+libX11-devel
+libXft-devel
+libXinerama-devel
+dmenu
+alacritty
+picom
+
 
 To run dwm, it is recommended to use xinit / startx.
 
