@@ -28,8 +28,7 @@ libXft-devel
 libXinerama-devel
 dmenu
 alacritty
-picom
-
+flameshot
 
 To run dwm, it is recommended to use xinit / startx.
 
