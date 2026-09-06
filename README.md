@@ -35,6 +35,11 @@ sudo apt install build-essential libx11-dev libxft-dev libxinerama-dev libfontco
 
 ```
 
+Recommended Runtime Software
+
+    Terminal: alacritty
+    Launcher: dmenu
+
 # Notes
 To run dwm, it is recommended to use xinit / startx.
 
