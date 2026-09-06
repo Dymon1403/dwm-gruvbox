@@ -18,18 +18,24 @@ Add exec dwm in your ~/.xinitrc and launch X11:
 ```bash
 startx
 ```
-**Notes**
-you need:
-gcc/clang 
-make
-pkg-config
-libX11-devel
-libXft-devel
-libXinerama-devel
-dmenu
-alacritty
-flameshot
+## Requirements
 
+### Build Dependencies
+To compile `dwm`, you need `make`, `gcc`, `pkg-config`, and the Xlib header files:
+
+Arch Linux:
+```bash
+sudo pacman -S --needed base-devel libx11 libxft libxinerama fontconfig
+
+```
+
+Debian / Ubuntu:
+```bash
+sudo apt install build-essential libx11-dev libxft-dev libxinerama-dev libfontconfig1-dev
+
+```
+
+# Notes
 To run dwm, it is recommended to use xinit / startx.
 
 P.S. Used on ThinkPad T430
