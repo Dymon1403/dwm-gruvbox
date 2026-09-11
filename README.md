@@ -11,6 +11,7 @@ and this like:
 
 ![Desktop Preview](screenshots/2026-08-29_12-28.png)
 
+and this one:
 ![Desktop Preview](screenshots/2026-09-11_19-14.png)
 
 
