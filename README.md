@@ -8,8 +8,10 @@ What it will look like:
 
 
 and this like:
-![Desktop Preview](screenshots/2026-08-29_12-28.png)
+![Desktop Preview](screenshots/2026-09-11_19-14.png)
 
+
+![Desktop Preview](screenshots/2026-08-29_12-28.png
 
 **How to run:**
 Clone repo and replace my repo in ur dwm/
