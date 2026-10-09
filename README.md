@@ -47,7 +47,7 @@ Recommended Runtime Software
 # Notes
 To run dwm, it is recommended to use xinit / startx.
 
-P.S. Used on ThinkPad T430
+P.S. dots used on ThinkPad T430
 
 
 
