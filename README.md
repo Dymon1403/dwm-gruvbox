@@ -49,5 +49,5 @@ To run dwm, it is recommended to use xinit / startx.
 
 P.S. dots used on ThinkPad T430
 
-
+как часты вы думаете о смерти
 
