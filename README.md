@@ -39,6 +39,12 @@ sudo apt install build-essential libx11-dev libxft-dev libxinerama-dev libfontco
 
 ```
 
+Void Linux:
+```bash
+sudo xbps-install -S base-devel libX11-devel libXft-devel libXinerama-devel fontconfig-devel
+
+```
+
 Recommended Runtime Software
 
     Terminal: alacritty
